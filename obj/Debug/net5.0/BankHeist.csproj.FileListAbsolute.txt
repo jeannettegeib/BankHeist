@@ -1,0 +1,16 @@
+C:\Users\Jeanette\workspace\C#\BankHeist\bin\Debug\net5.0\BankHeist.exe
+C:\Users\Jeanette\workspace\C#\BankHeist\bin\Debug\net5.0\BankHeist.deps.json
+C:\Users\Jeanette\workspace\C#\BankHeist\bin\Debug\net5.0\BankHeist.runtimeconfig.json
+C:\Users\Jeanette\workspace\C#\BankHeist\bin\Debug\net5.0\BankHeist.runtimeconfig.dev.json
+C:\Users\Jeanette\workspace\C#\BankHeist\bin\Debug\net5.0\BankHeist.dll
+C:\Users\Jeanette\workspace\C#\BankHeist\bin\Debug\net5.0\BankHeist.pdb
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.csproj.AssemblyReference.cache
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.AssemblyInfoInputs.cache
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.AssemblyInfo.cs
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.csproj.CoreCompileInputs.cache
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.dll
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\refint\BankHeist.dll
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.pdb
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\BankHeist.genruntimeconfig.cache
+C:\Users\Jeanette\workspace\C#\BankHeist\obj\Debug\net5.0\ref\BankHeist.dll
